@@ -1,0 +1,13 @@
+//import "unknwn.idl"; 
+
+namespace TestPlugin
+{
+
+runtimeclass TestPluginClass
+
+{
+    Boolean Test();
+    UInt32 add(UInt32 a, UInt32 b);
+}
+
+}
